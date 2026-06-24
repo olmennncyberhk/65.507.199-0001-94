@@ -3,7 +3,7 @@
  */
 window.SITE_CONFIG = {
   cpfApiUrl: 'https://carteiradepesca.com/apicpf/api/cpf',
-  whatsappSuporte: '5527992687854',
+  whatsappSuporte: '5519936189082',
   appIosUrl: 'https://carteiradepesca.com/ios/'
 };
 
